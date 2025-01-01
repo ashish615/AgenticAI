@@ -1,6 +1,12 @@
 # AgenticAI
 
-## Local Installation
+## 1. Notebook
+
+<a target="_blank" href="https://colab.research.google.com/github/ashish615/AgenticAI/blob/main/AI_AGENT.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## 2. Local Installation
 ### Setting Up Environment
 ```
 conda create -n AgenticAI python==3.12
